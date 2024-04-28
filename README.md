@@ -1,15 +1,12 @@
 # ACTIVIDAD1_DAW
 Actividad Autónoma No. 1 - Git
 
-Este repositorio contiene una página HTML básica que muestra datos de presentación.
+Este repositorio contiene una página HTML básica que muestra información personal.
 
 ## Contenido
 
-- **index.html**: Este archivo contiene la estructura básica de una página web y muestra mis datos personales, como mi nombre, información de contacto y una breve descripción sobre mí.
+- **index.html**: Este archivo contiene la estructura super básica de una página web, como mi nombre y una breve descripción sobre mí.
 
-## Acerca de mí
-
-¡Hola! Soy Marlon Vera, un estudiante apasionado por el desarrollo de software.
 
 ## Cómo ver la página
 
